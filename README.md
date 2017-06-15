@@ -2,7 +2,7 @@
 Pedagogical Notebooks for the VIHL, 2017
 
 
-These are my lectures notes for the two courses I taught in the Spring Session of the [Vancouver Institute for Higher Learning](https://www.higherlearning.today/). For more information about the Institute, please refer to the website:
+These are my lectures notes for the two courses I taught in the Spring Session of the [Vancouver Institute for Higher Learning](https://www.higherlearning.today/). For more information about the Institute, please refer to the website.
 
 
 
